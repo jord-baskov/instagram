@@ -1,6 +1,8 @@
 # instagram
 How to Download Multiple Videos, Images and Instagram Albums via Shell Script
 
+![instagram](instagram.jpg)
+
 **usage: instagram [options] **[file/url ...]**
 
  *Options:*
@@ -11,11 +13,11 @@ How to Download Multiple Videos, Images and Instagram Albums via Shell Script
 
  Examples:
 
-{% highlight bash %}
+```sh
 ./instagram https://www.instagram.com/p/BnrplkmhY0T/
 ./instagram https://www.instagram.com/p/BnrplkmhY0T/ https://www.instagram.com/p/CnrpmmmhY0X/ # ...
 ./instagram -f file.txt
-{% endhighlight %}
+```
 
 > * Where the file must have the urls that have Instagram images and/or videos, they can be on each line, 
 either separated or with blanks, ... they can not be stuck together.
