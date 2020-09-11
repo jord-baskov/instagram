@@ -2,6 +2,8 @@
 How to Download Multiple Videos, Images and Instagram Albums via Shell Script
 ## Via: <http://terminalroot.com.br>
 
+# ⛔️ DEPRECATED
+
 ![instagram](instagram.jpg)
 
 **usage: instagram [options]** **[file/url ...]**
